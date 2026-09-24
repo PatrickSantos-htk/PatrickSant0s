@@ -81,7 +81,7 @@ Catálogo comercial de uma marmoraria, no ar 24h. O cliente chega ao primeiro co
 
 **Back-end, dados & IA**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,python,postgres,mongodb,supabase" alt="Back-end" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,python,mongodb,supabase" alt="Back-end" />
 </p>
 
 **Ferramentas & testes**
